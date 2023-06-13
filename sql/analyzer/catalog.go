@@ -21,7 +21,7 @@ import (
 
 	"github.com/Ciyfly/FakerMysql/internal/similartext"
 	"github.com/Ciyfly/FakerMysql
-	"github.com/Ciyfly/FakerMysqlxpression/function"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function"
 )
 
 type Catalog struct {

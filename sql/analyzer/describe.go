@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/plan"
 )
 
 // resolveDescribeQuery resolves any DescribeQuery nodes by analyzing their child and assigning it back.

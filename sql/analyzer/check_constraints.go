@@ -21,9 +21,9 @@ import (
 	"github.com/dolthub/vitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlarse"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // validateCreateCheck legal expressions for CREATE CHECK statements, including those embedded in CREATE TABLE

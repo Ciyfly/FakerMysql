@@ -21,7 +21,7 @@ import (
 	"github.com/dolthub/vitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/plan"
 )
 
 func processTruncate(ctx *sql.Context, a *Analyzer, n sql.Node, scope *Scope) (sql.Node, error) {

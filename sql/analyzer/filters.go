@@ -20,7 +20,7 @@ import (
 	"github.com/Ciyfly/FakerMysql/sql/plan"
 
 	"github.com/Ciyfly/FakerMysql
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 type filtersByTable map[string][]sql.Expression

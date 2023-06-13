@@ -18,7 +18,7 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/plan"
 )
 
 // declarationScope holds the scope of DECLARE statements relative to their depth in the plan tree.

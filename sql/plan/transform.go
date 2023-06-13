@@ -16,7 +16,7 @@ package plan
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // TransformContext is the parameter to the Transform{,Selector}.

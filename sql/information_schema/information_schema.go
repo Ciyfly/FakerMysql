@@ -25,9 +25,9 @@ import (
 	"github.com/dolthub/vitess/go/vt/sqlparser"
 
 	. "github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/analyzer"
 	"github.com/Ciyfly/FakerMysql/sql/parse"
-	"github.com/Ciyfly/FakerMysql/plan"
-	"github.com/Ciyfly/FakerMysqlnalyzer"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 const (

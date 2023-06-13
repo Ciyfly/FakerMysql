@@ -19,7 +19,7 @@ import (
 
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/parse"
-	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // loadTriggers loads any triggers that are required for a plan node to operate properly (except for nodes dealing with

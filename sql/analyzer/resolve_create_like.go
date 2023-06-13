@@ -19,7 +19,7 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 func resolveCreateLike(ctx *sql.Context, a *Analyzer, n sql.Node, scope *Scope) (sql.Node, error) {

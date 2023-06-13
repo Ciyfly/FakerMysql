@@ -22,8 +22,8 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
-	"github.com/Ciyfly/FakerMysqlxpression/function"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function"
 )
 
 // ErrInsertIntoNotSupported is thrown when a table doesn't support inserts

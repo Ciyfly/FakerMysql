@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // Grab-bag analyzer function to assign information schema info to any plan nodes that need it, like various SHOW *

@@ -25,7 +25,7 @@ import (
 	"github.com/Ciyfly/FakerMysql/internal/similartext"
 	"github.com/Ciyfly/FakerMysql
 	"github.com/Ciyfly/FakerMysql/sql/expression"
-	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 func checkUniqueTableNames(ctx *sql.Context, a *Analyzer, n sql.Node, scope *Scope) (sql.Node, error) {

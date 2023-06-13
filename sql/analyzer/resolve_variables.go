@@ -21,9 +21,9 @@ import (
 	"github.com/dolthub/vitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysql/sql/parse"
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // resolveVariables replaces UnresolvedColumn which are variables with their literal values

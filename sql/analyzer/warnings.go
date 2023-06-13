@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 func clearWarnings(ctx *sql.Context, a *Analyzer, node sql.Node, scope *Scope) (sql.Node, error) {

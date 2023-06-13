@@ -20,7 +20,7 @@ import (
 	"github.com/go-kit/kit/metrics/discard"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 var (

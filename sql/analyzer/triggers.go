@@ -21,9 +21,9 @@ import (
 	"github.com/dolthub/vitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysql/sql/parse"
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // validateCreateTrigger handles CreateTrigger nodes, resolving references to "old" and "new" table references in

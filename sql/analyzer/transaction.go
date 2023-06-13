@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // beginTransaction begins a new transaction if one is not currently in progress, by wrapping any top-level node given

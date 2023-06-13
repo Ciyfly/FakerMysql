@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // resolveDatabase sets a database for nodes that implement sql.Databaser. Replaces sql.UnresolvedDatabase with the

@@ -19,7 +19,7 @@ import (
 
 	"github.com/Ciyfly/FakerMysql/sql/expression"
 
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 type TriggerEvent string

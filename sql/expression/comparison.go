@@ -21,7 +21,7 @@ import (
 	errors "gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/internal/regex"
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 var ErrInvalidRegexp = errors.NewKind("Invalid regular expression: %s")

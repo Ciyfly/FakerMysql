@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // CreateView is a node representing the creation (or replacement) of a view,

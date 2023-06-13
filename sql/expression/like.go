@@ -22,7 +22,7 @@ import (
 	"sync"
 
 	"github.com/Ciyfly/FakerMysql/internal/regex"
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 func newDefaultLikeMatcher(likeStr string) (regex.DisposableMatcher, error) {

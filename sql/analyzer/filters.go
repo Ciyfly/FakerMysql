@@ -17,10 +17,9 @@ package analyzer
 import (
 	"reflect"
 
-	"github.com/Ciyfly/FakerMysql/sql/plan"
-
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 type filtersByTable map[string][]sql.Expression

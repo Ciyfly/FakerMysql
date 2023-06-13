@@ -20,7 +20,7 @@ import (
 	"sync"
 
 	"github.com/Ciyfly/FakerMysql/internal/similartext"
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression/function"
 )
 

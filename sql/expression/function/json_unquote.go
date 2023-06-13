@@ -19,7 +19,7 @@ import (
 	"reflect"
 
 	"github.com/Ciyfly/FakerMysql/internal/strings"
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 

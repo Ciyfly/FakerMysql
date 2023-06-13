@@ -16,7 +16,7 @@ package analyzer
 
 import (
 	"github.com/Ciyfly/FakerMysql/memory"
-	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
 	"github.com/Ciyfly/FakerMysql/sql/plan"
 )

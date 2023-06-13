@@ -18,7 +18,7 @@ import (
 	"github.com/Ciyfly/FakerMysql/memory"
 	"github.com/Ciyfly/FakerMysql
 	"github.com/Ciyfly/FakerMysql/sql/expression"
-	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 const dualTableName = "dual"

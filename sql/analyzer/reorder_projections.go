@@ -15,9 +15,9 @@
 package analyzer
 
 import (
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // reorderProjection adds intermediate Project nodes to the descendants of existing Project nodes, adding fields to

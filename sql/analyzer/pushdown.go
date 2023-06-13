@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // pushdownFilters attempts to push conditions in filters down to individual tables. Tables that implement

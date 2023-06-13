@@ -17,8 +17,8 @@ package analyzer
 import (
 	"github.com/Ciyfly/FakerMysql/memory"
 	"github.com/Ciyfly/FakerMysql
-	"github.com/Ciyfly/FakerMysqlxpression"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/plan"
 )
 
 const dualTableName = "dual"

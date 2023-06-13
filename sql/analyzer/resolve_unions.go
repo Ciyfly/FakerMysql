@@ -19,9 +19,9 @@ import (
 
 	"gopkg.in/src-d/go-errors.v1"
 
+	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // resolveUnions resolves the left and right side of a union node in isolation.

@@ -20,10 +20,10 @@ import (
 
 	"gopkg.in/src-d/go-errors.v1"
 
+	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
-	"github.com/Ciyfly/FakerMysqlxpression/function/aggregation"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function/aggregation"
 )
 
 func resolveHaving(ctx *sql.Context, a *Analyzer, node sql.Node, scope *Scope) (sql.Node, error) {

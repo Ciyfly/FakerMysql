@@ -15,9 +15,9 @@
 package analyzer
 
 import (
+	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // resolveFunctions replaces UnresolvedFunction nodes with equivalent functions from the Catalog.

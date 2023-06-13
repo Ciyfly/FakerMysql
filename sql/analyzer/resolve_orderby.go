@@ -19,9 +19,9 @@ import (
 
 	errors "gopkg.in/src-d/go-errors.v1"
 
+	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // pushdownSort pushes the Sort node underneath the Project or GroupBy node in the case that columns needed to

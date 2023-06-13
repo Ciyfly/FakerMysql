@@ -17,9 +17,9 @@ package analyzer
 import (
 	"strings"
 
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 var validColumnDefaultFuncs = map[string]struct{}{

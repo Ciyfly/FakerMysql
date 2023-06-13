@@ -15,9 +15,9 @@
 package analyzer
 
 import (
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // Scope of the analysis being performed, used when analyzing subqueries to give such analysis access to outer scope.

@@ -17,9 +17,9 @@ package analyzer
 import (
 	"strings"
 
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 func resolveNaturalJoins(ctx *sql.Context, a *Analyzer, n sql.Node, scope *Scope) (sql.Node, error) {

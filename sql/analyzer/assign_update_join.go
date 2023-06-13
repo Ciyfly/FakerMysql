@@ -3,9 +3,9 @@ package analyzer
 import (
 	"fmt"
 
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // modifyUpdateExpressionsForJoin searches for a JOIN for UPDATE query and updates the child of the original update

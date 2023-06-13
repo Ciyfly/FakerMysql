@@ -24,9 +24,9 @@ import (
 
 	errors "gopkg.in/src-d/go-errors.v1"
 
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 var errInvalidIndex = errors.NewKind("invalid %s index %d (index must be non-negative)")

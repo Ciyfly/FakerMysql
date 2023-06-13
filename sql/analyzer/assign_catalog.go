@@ -15,8 +15,8 @@
 package analyzer
 
 import (
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // CatalogTable is a Table that depends on a Catalog.

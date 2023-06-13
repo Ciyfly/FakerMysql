@@ -15,9 +15,9 @@
 package analyzer
 
 import (
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // eraseProjection removes redundant Project nodes from the plan. A project is redundant if it doesn't alter the schema

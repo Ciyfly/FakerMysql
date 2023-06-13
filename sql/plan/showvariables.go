@@ -19,7 +19,7 @@ import (
 	"sort"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ShowVariables is a node that shows the global and session variables

@@ -19,7 +19,7 @@ import (
 	"reflect"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Max aggregation returns the greatest value of the selected column.

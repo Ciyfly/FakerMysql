@@ -22,7 +22,7 @@ import (
 	"sync/atomic"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // RegexpLike implements the REGEXP_LIKE function.

@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Last aggregation returns the last of all values in the selected column.

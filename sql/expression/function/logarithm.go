@@ -22,7 +22,7 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ErrInvalidArgumentForLogarithm is returned when an invalid argument value is passed to a

@@ -24,8 +24,8 @@ import (
 	errors "gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
-	"github.com/Ciyfly/FakerMysqlxpression/function/aggregation"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function/aggregation"
 )
 
 // ErrGroupBy is returned when the aggregation is not supported.

@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // NullIf function compares two expressions and returns NULL if they are equal. Otherwise, the first expression is returned.

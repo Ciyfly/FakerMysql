@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Sleep is a function that just waits for the specified number of seconds

@@ -16,7 +16,7 @@ package plan
 
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ApplyBindings replaces all `BindVar` expressions in the given sql.Node with

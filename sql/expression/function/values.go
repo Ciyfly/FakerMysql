@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Values is used in an ON DUPLICATE KEY UPDATE statement to return the value stated in the to-be-inserted column.

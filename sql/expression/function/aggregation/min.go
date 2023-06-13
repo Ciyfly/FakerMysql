@@ -19,7 +19,7 @@ import (
 	"reflect"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Min aggregation returns the smallest value of the selected column.

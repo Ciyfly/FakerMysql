@@ -26,8 +26,8 @@ import (
 	"github.com/opentracing/opentracing-go"
 	"gopkg.in/src-d/go-errors.v1"
 
-	"github.com/Ciyfly/FakerMysql/plan"
 	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 	"github.com/Ciyfly/FakerMysql/sql/expression"
 	"github.com/Ciyfly/FakerMysql/sql/expression/function"
 	"github.com/Ciyfly/FakerMysql/sql/expression/function/aggregation"

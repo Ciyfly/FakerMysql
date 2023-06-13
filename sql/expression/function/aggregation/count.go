@@ -20,7 +20,7 @@ import (
 	"github.com/mitchellh/hashstructure"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Count node to count how many rows are in the result set.

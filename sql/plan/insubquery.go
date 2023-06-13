@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // InSubquery is an expression that checks an expression is in the result of a subquery. It's in the plan package,

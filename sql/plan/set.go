@@ -19,7 +19,7 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Set represents a set statement. This can be variables, but in some instances can also refer to row values.

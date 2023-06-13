@@ -18,8 +18,8 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysql/sql/expression"
 	"github.com/Ciyfly/FakerMysql/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // expandStars replaces star expressions into lists of concrete column expressions

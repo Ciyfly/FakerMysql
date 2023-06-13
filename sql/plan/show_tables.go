@@ -18,7 +18,7 @@ import (
 	"sort"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ShowTables is a node that shows the database tables.

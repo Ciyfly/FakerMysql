@@ -20,7 +20,7 @@ import (
 
 	"github.com/Ciyfly/FakerMysql/internal/strings"
 	"github.com/Ciyfly/FakerMysql
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // JSONUnquote unquotes JSON value and returns the result as a utf8mb4 string.

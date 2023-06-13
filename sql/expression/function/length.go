@@ -19,7 +19,7 @@ import (
 	"unicode/utf8"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Length returns the length of a string or binary content, either in bytes

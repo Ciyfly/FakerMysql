@@ -19,7 +19,7 @@ import (
 	"math"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Sqrt is a function that returns the square value of the number provided.

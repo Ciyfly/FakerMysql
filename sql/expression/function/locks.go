@@ -22,7 +22,7 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ErrIllegalLockNameArgType is a kind of error that is thrown when the parameter passed as a lock name is not a string.

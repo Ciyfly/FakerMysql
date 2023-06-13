@@ -19,7 +19,7 @@ import (
 	"regexp"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Split receives a string and returns the parts of it splitted by a

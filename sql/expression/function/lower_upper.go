@@ -19,7 +19,7 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Lower is a function that returns the lowercase of the text provided.

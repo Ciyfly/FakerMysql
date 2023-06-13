@@ -22,7 +22,7 @@ import (
 	"github.com/lestrrat-go/strftime"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 func panicIfErr(err error) {

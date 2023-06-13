@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // ToBase64 is a function to encode a string to the Base64 format

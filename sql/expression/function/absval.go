@@ -20,7 +20,7 @@ import (
 	"github.com/shopspring/decimal"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // AbsVal is a function that takes the absolute value of a number

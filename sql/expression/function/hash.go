@@ -25,7 +25,7 @@ import (
 	"io"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // MD5 function returns the MD5 hash of the input.

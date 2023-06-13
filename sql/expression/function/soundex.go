@@ -20,7 +20,7 @@ import (
 	"unicode"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Soundex is a function that returns the soundex of a string. Two strings that

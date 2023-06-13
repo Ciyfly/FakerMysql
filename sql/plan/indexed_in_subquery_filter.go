@@ -18,7 +18,7 @@ import (
 	"io"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // NewIndexedInSubqueryFilter returns an IndexedInSubqueryFilter

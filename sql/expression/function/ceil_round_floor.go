@@ -20,7 +20,7 @@ import (
 	"reflect"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Ceil returns the smallest integer value not less than X.

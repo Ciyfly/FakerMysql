@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // DateAdd adds an interval to a date.

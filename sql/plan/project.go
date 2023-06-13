@@ -20,7 +20,7 @@ import (
 	opentracing "github.com/opentracing/opentracing-go"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // Project is a projection of certain expression from the children node.

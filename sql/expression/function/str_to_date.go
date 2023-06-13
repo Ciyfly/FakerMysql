@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlarse/dateparse"
+	"github.com/Ciyfly/FakerMysql/sql/parse/dateparse"
 )
 
 // NewStrToDate constructs a new function expression from the given child expressions.

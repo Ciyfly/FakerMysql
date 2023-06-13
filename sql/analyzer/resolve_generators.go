@@ -18,9 +18,9 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
-	"github.com/Ciyfly/FakerMysqlxpression/function"
+	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function"
 )
 
 var (

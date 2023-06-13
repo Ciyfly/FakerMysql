@@ -20,9 +20,9 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/internal/similartext"
-	"github.com/Ciyfly/FakerMysql
-	"github.com/Ciyfly/FakerMysqlxpression/function/aggregation"
-	"github.com/Ciyfly/FakerMysqlxpression/function/aggregation/window"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function/aggregation"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function/aggregation/window"
 )
 
 // ErrFunctionAlreadyRegistered is thrown when a function is already registered

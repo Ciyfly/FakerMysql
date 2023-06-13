@@ -21,9 +21,9 @@ import (
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlarse"
-	"github.com/Ciyfly/FakerMysqllan"
-	"github.com/Ciyfly/FakerMysqlxpression"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 // loadStoredProcedures loads stored procedures for all databases on relevant calls.

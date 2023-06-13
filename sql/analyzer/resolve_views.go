@@ -18,8 +18,8 @@ import (
 	"fmt"
 
 	"github.com/Ciyfly/FakerMysql/sql"
-	"github.com/Ciyfly/FakerMysqlarse"
-	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/plan"
 )
 
 func resolveViews(ctx *sql.Context, a *Analyzer, n sql.Node, scope *Scope) (sql.Node, error) {

@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/vt/sqlparser"
+	"github.com/Ciyfly/vitess/go/sqltypes"
+	"github.com/Ciyfly/vitess/go/vt/sqlparser"
 
 	. "github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/analyzer"

@@ -18,7 +18,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/dolthub/vitess/go/mysql"
+	"github.com/Ciyfly/vitess/go/mysql"
 	"github.com/sirupsen/logrus"
 
 	"github.com/Ciyfly/FakerMysql/sql"

@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dolthub/vitess/go/mysql"
+	"github.com/Ciyfly/vitess/go/mysql"
 	"github.com/opentracing/opentracing-go"
 	"github.com/sirupsen/logrus"
 

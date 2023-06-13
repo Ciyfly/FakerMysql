@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dolthub/vitess/go/mysql"
+	"github.com/Ciyfly/vitess/go/mysql"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 )

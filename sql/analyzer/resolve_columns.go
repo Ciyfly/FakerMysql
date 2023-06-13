@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/dolthub/vitess/go/vt/sqlparser"
+	"github.com/Ciyfly/vitess/go/vt/sqlparser"
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/internal/similartext"

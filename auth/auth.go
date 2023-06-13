@@ -17,7 +17,7 @@ package auth
 import (
 	"strings"
 
-	"github.com/dolthub/vitess/go/mysql"
+	"github.com/Ciyfly/vitess/go/mysql"
 	"gopkg.in/src-d/go-errors.v1"
 
 	"github.com/Ciyfly/FakerMysql/sql"

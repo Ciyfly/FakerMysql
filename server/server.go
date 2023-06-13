@@ -18,7 +18,7 @@ import (
 	"crypto/tls"
 	"time"
 
-	"github.com/dolthub/vitess/go/mysql"
+	"github.com/Ciyfly/vitess/go/mysql"
 	"github.com/opentracing/opentracing-go"
 
 	ylog "mallow/pkg/log"

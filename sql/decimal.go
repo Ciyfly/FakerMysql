@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dolthub/vitess/go/sqltypes"
-	"github.com/dolthub/vitess/go/vt/proto/query"
+	"github.com/Ciyfly/vitess/go/sqltypes"
+	"github.com/Ciyfly/vitess/go/vt/proto/query"
 	"github.com/shopspring/decimal"
 	"gopkg.in/src-d/go-errors.v1"
 )

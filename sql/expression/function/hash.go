@@ -24,8 +24,8 @@ import (
 	"hash"
 	"io"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqlxpression"
 )
 
 // MD5 function returns the MD5 hash of the input.

@@ -17,8 +17,8 @@ package analyzer
 import (
 	"strings"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqllan"
 )
 
 // declarationScope holds the scope of DECLARE statements relative to their depth in the plan tree.

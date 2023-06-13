@@ -18,7 +18,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // TriggerBeginEndBlock represents a BEGIN/END block specific to TRIGGER execution, which has special considerations

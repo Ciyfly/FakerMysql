@@ -3,7 +3,7 @@ package plan
 import (
 	"fmt"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // TableCopier is a supporting node that allows for the optimization of copying tables. It should be used in two cases.

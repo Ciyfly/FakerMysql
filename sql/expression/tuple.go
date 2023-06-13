@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Tuple is a fixed-size collection of expressions.

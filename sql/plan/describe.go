@@ -18,7 +18,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Describe is a node that describes its children.

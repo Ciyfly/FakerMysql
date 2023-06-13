@@ -17,7 +17,7 @@ package plan
 import (
 	"io"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Concat is a node that returns everything in Left and then everything in

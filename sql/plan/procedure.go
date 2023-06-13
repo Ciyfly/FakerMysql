@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // ProcedureSecurityContext determines whether the stored procedure is executed using the privileges of the definer or

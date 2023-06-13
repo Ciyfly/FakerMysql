@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // ShowIndexes is a node that shows the indexes on a table.

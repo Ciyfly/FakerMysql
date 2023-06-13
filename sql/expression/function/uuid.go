@@ -21,7 +21,7 @@ import (
 	"github.com/dolthub/vitess/go/vt/proto/query"
 	"github.com/google/uuid"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // UUID()

@@ -15,7 +15,7 @@
 package plan
 
 import (
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // ProcedureResolvedTable represents a resolved SQL Table inside of a stored procedure. These are initially resolved to

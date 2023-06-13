@@ -15,9 +15,9 @@
 package analyzer
 
 import (
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysqlxpression"
 )
 
 // FixFieldIndexesOnExpressions executes FixFieldIndexes on a list of exprs.

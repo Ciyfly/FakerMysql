@@ -17,10 +17,10 @@ package analyzer
 import (
 	"reflect"
 
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
+	"github.com/Ciyfly/FakerMysql
+	"github.com/Ciyfly/FakerMysqlxpression"
 )
 
 type filtersByTable map[string][]sql.Expression

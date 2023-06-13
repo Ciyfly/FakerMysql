@@ -17,7 +17,7 @@ package plan
 import (
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Offset is a node that skips the first N rows.

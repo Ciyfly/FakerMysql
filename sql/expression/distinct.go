@@ -5,7 +5,7 @@ import (
 
 	"github.com/mitchellh/hashstructure"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 type DistinctExpression struct {

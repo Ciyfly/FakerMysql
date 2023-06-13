@@ -20,7 +20,7 @@ import (
 
 	"github.com/dolthub/vitess/go/mysql"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // SignalConditionItemName represents the item name for the set conditions of a SIGNAL statement.

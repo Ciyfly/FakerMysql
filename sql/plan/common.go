@@ -14,7 +14,7 @@
 
 package plan
 
-import "github.com/dolthub/go-mysql-server/sql"
+import "github.com/Ciyfly/FakerMysql/sql"
 
 // IsUnary returns whether the node is unary or not.
 func IsUnary(node sql.Node) bool {

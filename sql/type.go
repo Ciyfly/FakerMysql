@@ -27,7 +27,7 @@ import (
 	"github.com/shopspring/decimal"
 	"gopkg.in/src-d/go-errors.v1"
 
-	"github.com/dolthub/go-mysql-server/internal/regex"
+	"github.com/Ciyfly/FakerMysql/internal/regex"
 )
 
 var (

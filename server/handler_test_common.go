@@ -26,9 +26,9 @@ import (
 	"github.com/dolthub/vitess/go/mysql"
 	"github.com/stretchr/testify/require"
 
-	sqle "github.com/dolthub/go-mysql-server"
-	"github.com/dolthub/go-mysql-server/memory"
-	"github.com/dolthub/go-mysql-server/sql"
+	sqle "github.com/Ciyfly/FakerMysql"
+	"github.com/Ciyfly/FakerMysql/memory"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 func setupMemDB(require *require.Assertions) *sqle.Engine {

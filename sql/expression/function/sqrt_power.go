@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqlxpression"
 )
 
 // Sqrt is a function that returns the square value of the number provided.

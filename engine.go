@@ -18,14 +18,14 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dolthub/go-mysql-server/memory"
+	"github.com/Ciyfly/FakerMysql/memory"
 
-	"github.com/dolthub/go-mysql-server/auth"
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/analyzer"
-	"github.com/dolthub/go-mysql-server/sql/expression/function"
-	"github.com/dolthub/go-mysql-server/sql/parse"
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/auth"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/analyzer"
+	"github.com/Ciyfly/FakerMysql/sql/expression/function"
+	"github.com/Ciyfly/FakerMysql/sql/parse"
+	"github.com/Ciyfly/FakerMysql/sql/plan"
 )
 
 // Config for the Engine.

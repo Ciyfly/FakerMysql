@@ -17,7 +17,7 @@ package plan
 import (
 	"strings"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // UpdateSource is the source of updates for an Update node. Its schema is the concatenation of the old and new rows,

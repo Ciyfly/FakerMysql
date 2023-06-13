@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 type Releaser struct {

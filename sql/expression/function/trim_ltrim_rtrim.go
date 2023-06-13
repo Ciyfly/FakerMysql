@@ -20,8 +20,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 )
 
 type trimType rune

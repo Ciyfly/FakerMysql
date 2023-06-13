@@ -14,7 +14,7 @@
 
 package function
 
-import "github.com/dolthub/go-mysql-server/sql"
+import "github.com/Ciyfly/FakerMysql/sql"
 
 type ConnectionID struct {
 	NoArgFunc

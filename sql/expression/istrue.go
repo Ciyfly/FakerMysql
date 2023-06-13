@@ -17,7 +17,7 @@ package expression
 import (
 	"errors"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // IsTrue is an expression that checks if an expression is true.

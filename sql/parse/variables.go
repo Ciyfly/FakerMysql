@@ -18,8 +18,8 @@ import (
 	"bufio"
 	"strings"
 
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqllan"
 )
 
 func parseShowVariables(ctx *sql.Context, s string) (sql.Node, error) {

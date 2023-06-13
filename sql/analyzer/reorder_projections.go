@@ -15,9 +15,9 @@
 package analyzer
 
 import (
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/expression"
-	"github.com/dolthub/go-mysql-server/sql/plan"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysqllan"
+	"github.com/Ciyfly/FakerMysqlxpression"
 )
 
 // reorderProjection adds intermediate Project nodes to the descendants of existing Project nodes, adding fields to

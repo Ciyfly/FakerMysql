@@ -23,8 +23,8 @@ import (
 	"github.com/opentracing/opentracing-go"
 	"github.com/sirupsen/logrus"
 
-	sqle "github.com/dolthub/go-mysql-server"
-	"github.com/dolthub/go-mysql-server/sql"
+	sqle "github.com/Ciyfly/FakerMysql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // SessionBuilder creates sessions given a MySQL connection and a server address.

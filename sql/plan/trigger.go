@@ -17,9 +17,9 @@ package plan
 import (
 	"io"
 
-	"github.com/dolthub/go-mysql-server/sql/expression"
+	"github.com/Ciyfly/FakerMysql/sql/expression"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql
 )
 
 type TriggerEvent string

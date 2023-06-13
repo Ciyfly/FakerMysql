@@ -15,7 +15,7 @@
 package function
 
 import (
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Database implements the DATABASE() function

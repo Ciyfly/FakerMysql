@@ -20,7 +20,7 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Limit is a node that only allows up to N rows to be retrieved.

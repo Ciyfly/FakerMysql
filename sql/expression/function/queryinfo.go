@@ -1,6 +1,6 @@
 package function
 
-import "github.com/dolthub/go-mysql-server/sql"
+import "github.com/Ciyfly/FakerMysql/sql"
 
 // RowCount implements the ROW_COUNT() function
 type RowCount struct{}

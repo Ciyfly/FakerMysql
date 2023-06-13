@@ -23,8 +23,8 @@ import (
 
 	ylog "mallow/pkg/log"
 
-	sqle "github.com/dolthub/go-mysql-server"
-	"github.com/dolthub/go-mysql-server/auth"
+	sqle "github.com/Ciyfly/FakerMysql"
+	"github.com/Ciyfly/FakerMysql/auth"
 )
 
 // Server is a MySQL server for SQLe engines.

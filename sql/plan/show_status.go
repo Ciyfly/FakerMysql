@@ -17,7 +17,7 @@ package plan
 import (
 	"github.com/dolthub/vitess/go/sqltypes"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // ShowStatus implements the SHOW STATUS MySQL command.

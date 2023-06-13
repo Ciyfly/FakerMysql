@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dolthub/go-mysql-server/internal/similartext"
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/internal/similartext"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // memoryDBProvider is a collection of Database.

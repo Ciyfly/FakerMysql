@@ -14,7 +14,7 @@
 
 package expression
 
-import "github.com/dolthub/go-mysql-server/sql"
+import "github.com/Ciyfly/FakerMysql/sql"
 
 // IsNull is an expression that checks if an expression is null.
 type IsNull struct {

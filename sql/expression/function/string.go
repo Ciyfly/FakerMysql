@@ -24,7 +24,7 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Ascii implements the sql function "ascii" which returns the numeric value of the leftmost character

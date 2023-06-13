@@ -53,17 +53,17 @@ What's the use case of **go-mysql-server**?
 
 ## Installation
 
-The import path for the package is `github.com/dolthub/go-mysql-server`.
+The import path for the package is `github.com/Ciyfly/FakerMysql`.
 
 To install it, run:
 
 ```
-go get github.com/dolthub/go-mysql-server
+go get github.com/Ciyfly/FakerMysql
 ```
 
 ## Go Documentation
 
-* [go-mysql-server godoc](https://godoc.org/github.com/dolthub/go-mysql-server)
+* [go-mysql-server godoc](https://godoc.org/github.com/Ciyfly/FakerMysql)
 
 ## SQL syntax
 
@@ -215,12 +215,12 @@ package main
 import (
 	"time"
 
-	sqle "github.com/dolthub/go-mysql-server"
-	"github.com/dolthub/go-mysql-server/auth"
-	"github.com/dolthub/go-mysql-server/memory"
-	"github.com/dolthub/go-mysql-server/server"
-	"github.com/dolthub/go-mysql-server/sql"
-	"github.com/dolthub/go-mysql-server/sql/information_schema"
+	sqle "github.com/Ciyfly/FakerMysql"
+	"github.com/Ciyfly/FakerMysql/auth"
+	"github.com/Ciyfly/FakerMysql/memory"
+	"github.com/Ciyfly/FakerMysql/server"
+	"github.com/Ciyfly/FakerMysql/sql"
+	"github.com/Ciyfly/FakerMysql/sql/information_schema"
 )
 
 // Example of how to implement a MySQL server based on a Engine:

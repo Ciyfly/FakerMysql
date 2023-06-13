@@ -19,7 +19,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/dolthub/go-mysql-server/sql"
+	"github.com/Ciyfly/FakerMysql/sql"
 )
 
 // Subquery is as an expression whose value is derived by executing a subquery. It must be executed for every row in

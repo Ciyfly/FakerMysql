@@ -4,7 +4,7 @@ require (
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/cespare/xxhash v1.1.0
 	github.com/dolthub/sqllogictest/go v0.0.0-20201107003712-816f3ae12d81
-	github.com/Ciyfly/vitess v0.0.1
+	github.com/Ciyfly/vitess v0.0.2
 	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
 	github.com/go-kit/kit v0.9.0
 	github.com/go-sql-driver/mysql v1.6.0
@@ -33,6 +33,6 @@ require (
 )
 
 replace github.com/oliveagle/jsonpath => github.com/dolthub/jsonpath v0.0.0-20210609232853-d49537a30474
-replace github.com/dolthub/vitess => github.com/Ciyfly/vitess v0.0.1
+replace github.com/dolthub/vitess => github.com/Ciyfly/vitess v0.0.2
 
 go 1.15

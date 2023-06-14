@@ -19,7 +19,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Ciyfly/vitess/go/mysql"
+	"github.com/Ciyfly/FakerVitess/go/mysql"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 )

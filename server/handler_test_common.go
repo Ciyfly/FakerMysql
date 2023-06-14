@@ -23,7 +23,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/Ciyfly/vitess/go/mysql"
+	"github.com/Ciyfly/FakerVitess/go/mysql"
 	"github.com/stretchr/testify/require"
 
 	sqle "github.com/Ciyfly/FakerMysql"

@@ -15,7 +15,7 @@
 package sqle
 
 import (
-	vtlog "github.com/Ciyfly/vitess/go/vt/log"
+	vtlog "github.com/Ciyfly/FakerVitess/go/vt/log"
 	"github.com/golang/glog"
 	"github.com/sirupsen/logrus"
 )

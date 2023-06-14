@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Ciyfly/vitess/go/vt/proto/query"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/query"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/expression"

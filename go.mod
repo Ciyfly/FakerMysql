@@ -1,7 +1,7 @@
 module github.com/Ciyfly/FakerMysql
 
 require (
-	github.com/Ciyfly/FakerVitess v0.0.2
+	github.com/Ciyfly/FakerVitess v0.0.3
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/cespare/xxhash v1.1.0
 	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
@@ -21,16 +21,14 @@ require (
 	github.com/src-d/go-oniguruma v1.1.0
 	github.com/stretchr/testify v1.8.1
 	github.com/tebeka/strftime v0.1.4 // indirect
-	golang.org/x/net v0.11.0 // indirect
 	golang.org/x/sync v0.1.0
-	google.golang.org/grpc v1.55.0 // indirect
 	gopkg.in/src-d/go-errors.v1 v1.0.0
 )
 
 replace github.com/oliveagle/jsonpath => github.com/dolthub/jsonpath v0.0.0-20210609232853-d49537a30474
 
-replace github.com/dolthub/vitess => github.com/Ciyfly/FakerVitess v0.0.2
+replace github.com/dolthub/vitess => github.com/Ciyfly/FakerVitess v0.0.3
 
-replace github.com/youtube/vitess => github.com/Ciyfly/FakerVitess v0.0.2
+replace github.com/youtube/vitess => github.com/Ciyfly/FakerVitess v0.0.3
 
 go 1.15

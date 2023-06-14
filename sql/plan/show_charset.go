@@ -15,7 +15,7 @@
 package plan
 
 import (
-	"github.com/Ciyfly/vitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 )

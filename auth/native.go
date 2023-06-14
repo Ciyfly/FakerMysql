@@ -25,7 +25,7 @@ import (
 
 	"github.com/Ciyfly/FakerMysql/sql"
 
-	"github.com/Ciyfly/vitess/go/mysql"
+	"github.com/Ciyfly/FakerVitess/go/mysql"
 	"gopkg.in/src-d/go-errors.v1"
 )
 

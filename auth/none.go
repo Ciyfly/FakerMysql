@@ -17,7 +17,7 @@ package auth
 import (
 	"github.com/Ciyfly/FakerMysql/sql"
 
-	"github.com/Ciyfly/vitess/go/mysql"
+	"github.com/Ciyfly/FakerVitess/go/mysql"
 )
 
 // None is an Auth method that always succeeds.

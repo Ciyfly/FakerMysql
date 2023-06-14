@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Ciyfly/vitess/go/vt/sqlparser"
+	"github.com/Ciyfly/FakerVitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 	"github.com/Ciyfly/FakerMysql/sql/plan"

@@ -22,7 +22,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/Ciyfly/vitess/go/vt/sqlparser"
+	"github.com/Ciyfly/FakerVitess/go/vt/sqlparser"
 	"github.com/opentracing/opentracing-go"
 	"gopkg.in/src-d/go-errors.v1"
 

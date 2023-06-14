@@ -17,8 +17,8 @@ package plan
 import (
 	"fmt"
 
-	"github.com/Ciyfly/vitess/go/mysql"
-	"github.com/Ciyfly/vitess/go/vt/sqlparser"
+	"github.com/Ciyfly/FakerVitess/go/mysql"
+	"github.com/Ciyfly/FakerVitess/go/vt/sqlparser"
 
 	"github.com/Ciyfly/FakerMysql/sql"
 )

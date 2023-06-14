@@ -1,7 +1,7 @@
 module github.com/Ciyfly/FakerMysql
 
 require (
-	github.com/Ciyfly/vitess v0.0.0
+	github.com/Ciyfly/FakerVitess v0.0.0
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/cespare/xxhash v1.1.0
 	github.com/fastly/go-utils v0.0.0-20180712184237-d95a45783239 // indirect
@@ -27,8 +27,8 @@ require (
 )
 
 replace github.com/oliveagle/jsonpath => github.com/dolthub/jsonpath v0.0.0-20210609232853-d49537a30474
-replace github.com/dolthub/vitess => github.com/Ciyfly/vitess v0.0.0
-replace github.com/youtube/vitess => github.com/Ciyfly/vitess v0.0.0
+replace github.com/dolthub/vitess => github.com/Ciyfly/FakerVitess v0.0.0
+replace github.com/youtube/vitess => github.com/Ciyfly/FakerVitess v0.0.0
 
 
 go 1.15
